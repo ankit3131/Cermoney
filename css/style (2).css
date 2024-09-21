@@ -1,0 +1,18 @@
+/* Header style css */
+.top_header{
+	background: #000;
+}
+.top_header p{
+	color:#fff;
+	font-family: Montserrat;
+	font-weight: 400;
+	font-weight: 400;
+    font-size: 14px;
+    line-height: 15.85px;
+    margin: 0px;
+    padding: 10px;
+}
+
+.background_img{
+	background-image: url('../images/home-video-placeholder-video.png');
+}
